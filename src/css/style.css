@@ -7,18 +7,38 @@ body {
 .cabecalho {
     display: flex;
     background-color: aqua;
+    justify-content: center;
 }
 
 .selecao-de-personagem {
     display: flex;
     background-color: blueviolet;
+    align-items: center;
+    gap: 30px;
 }
 
 .selecao-de-personagem .lista-de-personagens {
     display: flex;
     background-color: brown;
     flex-wrap: wrap;
-    gap: 30px;
     justify-content: center;
+}
+
+.selecao-de-personagem .personagens {
+    display: flex;
+    background-color: darkslategray;
+    align-items: center;
+    flex-direction: column;
+    max-width: 585px;
+    gap: 25px;
+}
+
+.selecao-de-personagem .personagens .titulo {
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #47f4ff;
+    width: 100%;
+    text-align: center;
 }
 
