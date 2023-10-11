@@ -8,3 +8,17 @@ body {
     display: flex;
     background-color: aqua;
 }
+
+.selecao-de-personagem {
+    display: flex;
+    background-color: blueviolet;
+}
+
+.selecao-de-personagem .lista-de-personagens {
+    display: flex;
+    background-color: brown;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
