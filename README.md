@@ -5,13 +5,13 @@ Projeto focado em HTML, CSS e JavaScript, com tema Xmen. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./src/imagens/Screenshot_2.png" width="100%">
+  <img alt="Projeto Xmen" src="https://imgur.com/76a89bc2-83d2-4fb5-95ea-a22193380359" width="100%">
 </p>
 
 ## 🚀 Tecnologias
