@@ -8,6 +8,12 @@ personagens.forEach((personagem) => {
         personagem.classList.add('selecionado');
 
         const personagemGrande = document.querySelector('.personagem-grande');
-        imagemPersonagemGrande.src = "./src/imagens/card-vampira.png";
+
+        const idPersonagem = personagem.attributes.id.value;
+        personagemGrande.src = `./src/imagens/card-${idPersonagem}.png`;
+
+        const nomePersonagem = document.getElementById('nome-personagem');
+
+        nomePersonagem.innerText = personagem.getAttribute('data-name');
     })
 })
