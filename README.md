@@ -11,7 +11,7 @@ Projeto focado em HTML, CSS e JavaScript, com tema Xmen. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto Xmen" src="https://imgur.com/76a89bc2-83d2-4fb5-95ea-a22193380359" width="100%">
+  <img alt="Projeto Xmen" src="https://i.ibb.co/jD341vX/Screenshot-2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
